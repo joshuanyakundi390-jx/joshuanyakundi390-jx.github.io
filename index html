@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My IT Student Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My portfolio</h1>
+        <p>Welcome to my personal website</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#skills">My Skills</a>
+        <a href="#projects">My Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I am an Information Technology student.
+           I am learning programming, web development,
+           computer networks and databases.</p>
+    </section>
+
+    <section id="skills">
+        <h2>My Skills</h2>
+        <ul>
+            <li>HTML and CSS</li>
+            <li>Java programming</li>
+            <li>Computer networking</li>
+            <li>Database systems</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+        <p>My first project is this personal portfolio website.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: yourname@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 My IT Student Portfolio</p>
+    </footer>
+
+</body>
+</html>
